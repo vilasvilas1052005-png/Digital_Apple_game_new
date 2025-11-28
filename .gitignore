@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+.venv311/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large binary files
+*.dll
+*.lib
+*.pdb
+
+# Ignore wheel packages
+*.whl
+
+# Ignore logs
+*.log
